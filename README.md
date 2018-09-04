@@ -1,5 +1,6 @@
 # Dissertation-IAS-MSc
 
+Code implemented for my Master's thesis titled: 
 "Linguistic Alignment in Social Media: Detecting Alignment of Twitter Conversation Features Through Various Measures" 
 
 Because it is against Twitter’s terms of service to publish tweet text or any identifying information about individual users, the data used in generating the report has not been shared. Cell outputs from Jupyter Notebooks used in computation and analysis have been cleared to maintain Twitter user privacy. 
@@ -30,3 +31,9 @@ Because it is against Twitter’s terms of service to publish tweet text or any 
 |NRCHash.py|Contains functions to perform accommodation measures on the NRC Hashtag Emotion lexicon alignment markers.|
 |	SCP_Code.py|Contains functions to perform SCP cohesion estimations on data. |
 
+
+Work was particularly inspired by:
+
+Danescu-Niculescu-Mizil, Cristian, Michael Gamon, and Susan Dumais. "Mark my words!: linguistic style accommodation in social media." Proceedings of the 20th international conference on World wide web. ACM, 2011.
+
+Doyle, Gabriel, Dan Yurovsky, and Michael C. Frank. "A robust framework for estimating linguistic alignment in Twitter conversations." Proceedings of the 25th international conference on world wide web. International World Wide Web Conferences Steering Committee, 2016.
